@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Inspeccion Zapopan 2.0</string>
+    <string name="guardar">Guardar</string>
+    <string name="imprimir">Imprimir</string>
+
+
+    <!--Acta Construccion-->
+
+    <string name="Seccion_Datos_Visitado">Datos del visitado</string>
+    <string name="Nombre_visitado">Nombre del visitado</string>
+    <string name="Catalogo_Se_identifica_con">Seleccione con que se identifica: </string>
+    <string name="Numero_identificacion">Indique el numero de la identificación</string>
+    <string name="Catalogo_Manifiesta_ser">Seleccione que manifiesta ser:</string>
+    <string name="Propiedad_de">Propiedad de:</string>
+    <string name="El_visitado">El visitado</string>
+    <string name="Se_desconoce">Se desconoce</string>
+    <string name="Otro">Otro</string>
+    <string name="Catalgo_Realizado_inspeccion_peticion">Realizada la inspeccion a peticion de:</string>
+
+    <string name="Seccion_Ubicacion">Ubicacion</string>
+    <string name="Nombre_calle">Nombre de la calle</string>
+    <string name="Ext">Numero Exterior</string>
+    <string name="Int">Numero Interior</string>
+    <string name="Catalogo_fraccionamiento">Seleccione el fraccionamiento</string>
+    <string name="Catalogo_zona">Seleccione la zona</string>
+    <string name="Condominio">Condominio</string>
+    <string name="UsoSuelo">Seleccione el uso de suelo correspondiente</string>
+    <string name="UsoSueloDetalle">Seleccione el detalle del uso de suelo</string>
+
+
+    <string name="Seccion_Testigos_asistencia">Testigos de asistencia</string>
+    <string name="Catalgo_Inspectores">Seleccione al inspector</string>
+    <string name="Nombre_testigo1">Nombre del primer testigo de asistencia</string>
+    <string name="Nombre_testigo2">Nombre del segundo testigo de asistencia</string>
+
+    <string name="Seccion_Visita">Visita</string>
+    <string name="Hechos">Hechos</string>
+    <string name="Catalgo_medidas_precautorias">Seleccione la medida precautoria</string>
+    <string name="Articulo180">Articulo 180:</string>
+    <string name="c_fraccion2_180">Fraccion II</string>
+    <string name="Articulo183">Articulo 183:</string>
+    <string name="c_fraccion1_183">Fraccion I</string>
+    <string name="Articulo185">Articulo 185:</string>
+    <string name="c_fraccion1_185">Fraccion I</string>
+
+
+
+
+
+</resources>
